@@ -88,7 +88,6 @@ author:
   bio              : ""
   location         : "四川·成都"
   employer         : "电子科技大学"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "zhangqianzhen2022@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -112,10 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
   vine             :
-  weibo            :
-  youtube          :
   wikipedia        :
 
 

@@ -3,9 +3,6 @@ main:
   - title: "AboutMe"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "AWARDS"
     url: /teaching/    
     
